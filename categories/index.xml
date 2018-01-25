@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Hugo Future Imperfect</title>
+    <title>Hugo Future Imperfect</title>
     <link>/categories/</link>
-    <description>Recent content in Categories on Hugo Future Imperfect</description>
+    <description>Recent content on Hugo Future Imperfect</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 22 Jun 2017 00:00:00 +0000</lastBuildDate>
@@ -12,48 +12,39 @@
     
     
     <item>
-      <title></title>
-      <link>/categories/</link>
+      <title>Fancy App 1</title>
+      <link>/portfolio/item1/</link>
       <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>/categories/</guid>
-      <description></description>
+      <guid>/portfolio/item1/</guid>
+      <description> App 1 </description>
     </item>
     
     <item>
-      <title>Development</title>
-      <link>/categories/development/</link>
-      <pubDate>Wed, 24 Jan 2018 00:00:00 +0000</pubDate>
+      <title>Fancy App 2</title>
+      <link>/portfolio/item2/</link>
+      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>/categories/development/</guid>
-      <description></description>
+      <guid>/portfolio/item2/</guid>
+      <description> App 2 </description>
     </item>
     
     <item>
-      <title>Django</title>
-      <link>/categories/django/</link>
-      <pubDate>Wed, 24 Jan 2018 00:00:00 +0000</pubDate>
+      <title>Fancy App 3</title>
+      <link>/portfolio/item3/</link>
+      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>/categories/django/</guid>
-      <description></description>
+      <guid>/portfolio/item3/</guid>
+      <description> App 3 </description>
     </item>
     
     <item>
-      <title>Laravel</title>
-      <link>/categories/laravel/</link>
-      <pubDate>Wed, 24 Jan 2018 00:00:00 +0000</pubDate>
+      <title>Fancy App 4</title>
+      <link>/portfolio/item4/</link>
+      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>/categories/laravel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Wordpress</title>
-      <link>/categories/wordpress/</link>
-      <pubDate>Wed, 24 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/wordpress/</guid>
-      <description></description>
+      <guid>/portfolio/item4/</guid>
+      <description> App 4 </description>
     </item>
     
   </channel>
