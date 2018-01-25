@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wordpress on Hugo Future Imperfect</title>
+    <link>/categories/wordpress/</link>
+    <description>Recent content in Wordpress on Hugo Future Imperfect</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/wordpress/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Me | Patrick Curl | Developer</title>
+      <link>/blog/about-me/</link>
+      <pubDate>Wed, 24 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/about-me/</guid>
+      <description>1998 - 2007 : Geocities and Shitty Spaghetti My name is Patrick Curl, I&amp;rsquo;ve been developing websites since geocities was a thing. I&amp;rsquo;ve installed and configured tons of scripts from hotscripts over the years. For a very long time I was a script junky but never really taught myself to &amp;lsquo;code&amp;rsquo;.
+Sure, I could hack shit together and spew out spaghetti code, but really I was just good at tweaking scripts/interfaces that other&amp;rsquo;s put together and fixing broken things.</description>
+    </item>
+    
+  </channel>
+</rss>
