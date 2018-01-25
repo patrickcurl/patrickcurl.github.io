@@ -1,15 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo Future Imperfect</title>
+    <title>Patrick Curl | Full-stack Laravel | Vue | React Development</title>
     <link>/</link>
-    <description>Recent content on Hugo Future Imperfect</description>
+    <description>Recent content on Patrick Curl | Full-stack Laravel | Vue | React Development</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jan 2018 18:30:47 -0700</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Laravel Step by Step</title>
+      <link>/blog/laravel-step-by-step/</link>
+      <pubDate>Wed, 24 Jan 2018 18:30:47 -0700</pubDate>
+      
+      <guid>/blog/laravel-step-by-step/</guid>
+      <description>WARNING THIS POST ISN&amp;rsquo;T Finished&amp;hellip; follow with care. Laravel has reshaped the entire php eco-system. In 2015 Laravel became the most starred PHP framework on Github and is now one of the most used frameworks for developers all over the world.
+Laravel is clean, beautiful, and focuses on getting shit done. Laravel is used by companies large and small. It is used in hobby projects and by fortune 500 companies.</description>
+    </item>
     
     <item>
       <title>Fancy App 1</title>

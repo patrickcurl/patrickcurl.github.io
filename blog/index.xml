@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Hugo Future Imperfect</title>
+    <title>Blog on Patrick Curl | Full-stack Laravel | Vue | React Development</title>
     <link>/blog/</link>
-    <description>Recent content in Blog on Hugo Future Imperfect</description>
+    <description>Recent content in Blog on Patrick Curl | Full-stack Laravel | Vue | React Development</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jan 2018 18:30:47 -0700</lastBuildDate>
     
 	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>About Me | Patrick Curl | Developer</title>
-      <link>/blog/about-me/</link>
-      <pubDate>Wed, 24 Jan 2018 00:00:00 +0000</pubDate>
+      <title>Laravel Step by Step</title>
+      <link>/blog/laravel-step-by-step/</link>
+      <pubDate>Wed, 24 Jan 2018 18:30:47 -0700</pubDate>
       
-      <guid>/blog/about-me/</guid>
-      <description>1998 - 2007 : Geocities and Shitty Spaghetti My name is Patrick Curl, I&amp;rsquo;ve been developing websites since geocities was a thing. I&amp;rsquo;ve installed and configured tons of scripts from hotscripts over the years. For a very long time I was a script junky but never really taught myself to &amp;lsquo;code&amp;rsquo;.
-Sure, I could hack shit together and spew out spaghetti code, but really I was just good at tweaking scripts/interfaces that other&amp;rsquo;s put together and fixing broken things.</description>
+      <guid>/blog/laravel-step-by-step/</guid>
+      <description>WARNING THIS POST ISN&amp;rsquo;T Finished&amp;hellip; follow with care. Laravel has reshaped the entire php eco-system. In 2015 Laravel became the most starred PHP framework on Github and is now one of the most used frameworks for developers all over the world.
+Laravel is clean, beautiful, and focuses on getting shit done. Laravel is used by companies large and small. It is used in hobby projects and by fortune 500 companies.</description>
     </item>
     
   </channel>
